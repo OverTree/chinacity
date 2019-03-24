@@ -1,0 +1,25 @@
+{
+  "name": "chinacity",
+  "version": "1.0.0",
+  "description": "chinacity since 2019",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OverTree/chinacity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OverTree/chinacity/issues"
+  },
+  "homepage": "https://github.com/OverTree/chinacity#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dayjs": "^1.8.11",
+    "json-format": "^1.0.1",
+    "lodash": "^4.17.11"
+  }
+}

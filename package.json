@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/OverTree/chinacity#readme",
   "dependencies": {
-    "axios": "^0.18.0",
-    "dayjs": "^1.8.11",
+    "axios": "^0.18.1",
+    "dayjs": "^1.10.7",
     "json-format": "^1.0.1",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.21"
   }
 }
